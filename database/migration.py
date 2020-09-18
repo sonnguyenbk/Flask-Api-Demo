@@ -1,5 +1,6 @@
 from app import db
-from database import User, Post
+from models.user_model import User
+from models.post_model import Post
 import random
 
 
